@@ -9,5 +9,6 @@
 
 ## Write-up
 
-The fist image that I saw is the CTF page background. Look through the background, I can find the flag is EKO{th3_fl4g}
+The fist image that I saw is the CTF page background. Look through the background, I can find the flag is EKO{th3_fl4g}.
+
 Link to the image:https://ctf.ekoparty.org/static/img/background.png
