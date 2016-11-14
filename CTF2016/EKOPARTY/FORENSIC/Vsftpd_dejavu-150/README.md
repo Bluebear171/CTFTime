@@ -1,12 +1,12 @@
-# EKOPARTY CTF 2016 : alice-secret-message-175
+# EKOPARTY CTF 2016 : vsftpd-dejavu-150
 
 **Category:** Forensics
-**Points:** 175
-**Solves:** 8
+**Points:** 150
+**Solves:** 20
 **Description:**
 
-> There is something fishy here!
-> [Attachment](for175.zip)
+> Oh snap! A backdoor from real life.
+> [Attachment](for150.zip)
 
 ## Write-up
 
@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [P4 Team](https://github.com/p4-team/ctf/blob/master/2016-10-26-ekoparty/for_150/README.md)
