@@ -10,7 +10,7 @@
 
 ## Write-up
 
-(TODO)
+First I unzip the 
 
 ## Other write-ups and resources
 
